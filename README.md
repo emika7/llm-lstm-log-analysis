@@ -29,7 +29,7 @@ k6 load testing scripts used to generate synthetic HTTP traffic for dataset cons
 - `anomaly-traffic.js` – DDoS, directory scanning, and malicious request simulation
 
 ### `/llm dataset` – LLM Evaluation Dataset
-Datasets used for comparing and evaluating Large Language Model performance on log classification tasks.
+Datasets used for comparing and evaluating Large Language Model performance on log classification tasks. (the only one missing is parsed dataset, but it was too big to commit)
 
 ### `/llm model results` – LLM Model Results
 Evaluation results and classification metrics from LLM model comparison experiments, including results from Qwen 2.5, Mistral, and LLaMA models.
